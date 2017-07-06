@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="guidance_test0" type="guidance_test0_client" name="guidance_test0_client" output="screen">
+	</node>
+</launch>

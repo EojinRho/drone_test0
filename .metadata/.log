@@ -1,0 +1,9 @@
+!SESSION 2017-06-29 16:41:35.493 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ko_KR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-06-29 16:44:21.436
+!MESSAGE Indexed 'oroca_ros_tutorials' (2 sources, 0 headers) in 0.16 sec: 15 declarations; 15 references; 4 unresolved inclusions; 0 syntax errors; 33 unresolved names (52.38%)
